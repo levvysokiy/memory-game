@@ -1,0 +1,18 @@
+.playButton {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 75px;
+  cursor: pointer;
+  background-color: #ffe101;
+  color: #4d490f;
+  border: 0;
+  box-shadow: 0px 35px 62px -28px #000000;
+  font-family: "Bebas Neue";
+  font-size: 42px;
+  font-weight: 900;
+  margin: 50px;
+  border-radius: 1px;
+}

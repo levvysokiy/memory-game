@@ -1,0 +1,19 @@
+.game {
+  width: 710px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(6, 110px);
+  gap: 10px;
+  margin: 0 auto;
+}
+
+.results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Bebas Neue';
+  flex-direction: column;
+}
